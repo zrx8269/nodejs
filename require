@@ -1,0 +1,3 @@
+源代码请参考https://github.com/nodejs/node/blob/master/lib/internal/modules/cjs/loader.js
+
+文章参考http://fredkschott.com/post/2014/06/require-and-the-module-system/
